@@ -1,6 +1,6 @@
 # ThePoorMansBugScanner
 
-ThePoorMansBugScanner is a robust and versatile cybersecurity tool designed to streamline the enumeration and vulnerability scanning process for network security professionals. Built to facilitate a comprehensive security posture assessment, AutoEnum automates the tedious task of gathering and analyzing data across multiple phases of penetration testing.
+ThePoorMansBugScanner is a robust and versatile cybersecurity tool designed to streamline the enumeration and vulnerability scanning process for network security professionals. Built to facilitate a comprehensive security posture assessment, ThePoorMansBugScanner automates the tedious task of gathering and analyzing data across multiple phases of penetration testing.
 
 Key Features:
 IP to Domain Conversion: Automatically converts IP addresses into domain names, prepping them for further analysis.
